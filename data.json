@@ -1,0 +1,27 @@
+[
+    {
+      "trackingNumber": "12345678",
+      "email": "user1@example.com",
+      "cellphone": "+1-555-555-0001",
+      "address": "Av. Ejemplo 123, Ciudad Ficticia",
+      "price": "50.00",
+      "creationDate": "2023-01-10",
+      "deliveryDate": "2023-01-15",
+      "size": "Pequeño",
+      "weight": "1kg",
+      "pos": "Almacén Central"
+    },
+    {
+      "trackingNumber": "87654321",
+      "email": "user2@example.com",
+      "cellphone": "+1-555-555-0002",
+      "address": "Calle Inexistente 456, Pueblo Imaginario",
+      "price": "100.00",
+      "creationDate": "2023-01-12",
+      "deliveryDate": "2023-01-18",
+      "size": "Grande",
+      "weight": "5kg",
+      "pos": "En ruta"
+    }
+  ]
+  
